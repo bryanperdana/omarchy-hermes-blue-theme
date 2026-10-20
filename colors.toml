@@ -1,0 +1,39 @@
+# Hermes Blue: electric blue poster language, navy ink working surfaces.
+# Pure #0000F2 is reserved for the bar, selection and wallpapers; acid
+# #EDFF45 only appears as a small glint (yellow, countdowns).
+mode = "dark"
+
+accent = "#7878FF"
+selection = "#0000F2"
+selection_foreground = "#F5F5F5"
+selection_background = "#0000F2"
+muted = "#4A4A92"
+
+background = "#05052B"
+dark_background = "#03031F"
+darker_background = "#020214"
+lighter_background = "#0E0E4A"
+
+foreground = "#F5F5F5"
+dark_foreground = "#8A8AC8"
+light_foreground = "#E4E6FF"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "#F5F5F5"
+hyprland_inactive_border = "#1A1A5C"
+
+red = "#FF5C7A"
+yellow = "#EDFF45"
+orange = "#FFA86B"
+green = "#7CE0A8"
+cyan = "#8FB8FF"
+blue = "#7878FF"
+magenta = "#B9A6FF"
+brown = "#8A7A9E"
+
+bright_red = "#FF8DA1"
+bright_yellow = "#F4FF8A"
+bright_green = "#A8EEC5"
+bright_cyan = "#B8D2FF"
+bright_blue = "#A3A3FF"
+bright_magenta = "#D4C9FF"

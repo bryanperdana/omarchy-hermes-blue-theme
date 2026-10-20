@@ -1,0 +1,9 @@
+[bar]
+# Poster blue bar: the one place pure Hermes blue meets the working desktop.
+background       = "#0000F2"
+background-alpha = 1.0
+text             = "#F5F5F5"
+active           = "#EDFF45"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
